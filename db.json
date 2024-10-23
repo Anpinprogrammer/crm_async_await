@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Steven Gomez",
+      "email": "luzhelenaaguilera@gmail.com",
+      "telefono": "3157809098",
+      "empresa": "LeanTech",
+      "id": "a782"
+    },
+    {
+      "id": "6e6a",
+      "nombre": "Andres Steven ",
+      "email": "andresspinedago@gmail.com",
+      "telefono": "3157809098",
+      "empresa": "asdasd"
+    }
+  ]
+}
